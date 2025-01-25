@@ -1,5 +1,3 @@
-Here’s a fun and engaging README template tailored for JavaScript enthusiasts and full-stack web development learners:
-
 ---
 
 # 🚀 **JS Dev Adventure** 🌟  
