@@ -1,5 +1,3 @@
----
-
 # 🚀 **JS Dev Adventure** 🌟  
 > *Learning Full-Stack Web Development: One Line of Code at a Time!*  
 
